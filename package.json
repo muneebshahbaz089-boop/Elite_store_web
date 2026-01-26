@@ -1,0 +1,22 @@
+{
+  "name": "elite-sports-store",
+  "version": "1.0.0",
+  "description": "Elite Sports Store - E-commerce platform for sports equipment",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "npx http-server . -p 8080 -o",
+    "dev": "npx http-server . -p 8080 -o"
+  },
+  "keywords": [
+    "sports",
+    "ecommerce",
+    "store",
+    "equipment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+

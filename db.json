@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Premium Cricket Bat",
+      "description": "Professional grade cricket bat made from English willow. Perfect for serious cricketers.",
+      "price": 299.99,
+      "image": "images/bat.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "2",
+      "name": "Cricket Ball",
+      "description": "High-quality leather cricket ball approved for professional matches.",
+      "price": 45.99,
+      "image": "images/cricketball.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "3",
+      "name": "Cricket Pads",
+      "description": "Protective cricket leg pads with adjustable straps for perfect fit.",
+      "price": 89.99,
+      "image": "images/cricketpads.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "4",
+      "name": "Cricket Gloves",
+      "description": "Professional batting gloves with excellent grip and protection.",
+      "price": 39.99,
+      "image": "images/gloves.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "5",
+      "name": "Cricket Shirt",
+      "description": "Breathable cricket shirt with moisture-wicking technology.",
+      "price": 49.99,
+      "image": "images/cricketshirt.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "6",
+      "name": "Cricket Shoes",
+      "description": "Professional cricket shoes with spikes for excellent grip.",
+      "price": 119.99,
+      "image": "images/cricketshoes.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "7",
+      "name": "Cricket Helmet",
+      "description": "Safety-certified cricket helmet with face guard.",
+      "price": 79.99,
+      "image": "images/helment.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "8",
+      "name": "Wicket Set",
+      "description": "Complete cricket wicket set with stumps and bails.",
+      "price": 59.99,
+      "image": "images/wicket.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "9",
+      "name": "Keeping Gloves",
+      "description": "Professional wicket-keeping gloves with extra padding.",
+      "price": 69.99,
+      "image": "images/keepingglove.jpg",
+      "category": "cricket"
+    },
+    {
+      "id": "10",
+      "name": "Football",
+      "description": "Official size and weight football for professional matches.",
+      "price": 54.99,
+      "image": "images/football.jpg",
+      "category": "football"
+    },
+    {
+      "id": "11",
+      "name": "Football Shirt",
+      "description": "Authentic football jersey with team logo and breathable fabric.",
+      "price": 69.99,
+      "image": "images/footballshirt.jpg",
+      "category": "football"
+    },
+    {
+      "id": "12",
+      "name": "Football Shoes",
+      "description": "Professional football cleats with advanced traction system.",
+      "price": 129.99,
+      "image": "images/footballshoes.jpg",
+      "category": "football"
+    },
+    {
+      "id": "13",
+      "name": "Hockey Stick",
+      "description": "Professional hockey stick made from composite materials.",
+      "price": 89.99,
+      "image": "images/hockey.jpg",
+      "category": "hockey"
+    },
+    {
+      "id": "14",
+      "name": "Hockey Ball",
+      "description": "Official hockey ball for field hockey matches.",
+      "price": 24.99,
+      "image": "images/hockeyball.jpg",
+      "category": "hockey"
+    },
+    {
+      "id": "15",
+      "name": "Hockey Shirt",
+      "description": "Performance hockey jersey with moisture management.",
+      "price": 59.99,
+      "image": "images/hockeyshirt.jpg",
+      "category": "hockey"
+    },
+    {
+      "id": "16",
+      "name": "Hockey Shoes",
+      "description": "Specialized hockey shoes with excellent grip and support.",
+      "price": 109.99,
+      "image": "images/hockeyshoes.jpg",
+      "category": "hockey"
+    },
+    {
+      "id": "17",
+      "name": "Tennis Racket",
+      "description": "Professional tennis racket with carbon fiber construction.",
+      "price": 179.99,
+      "image": "images/tennisreckit.jpg",
+      "category": "tennis"
+    },
+    {
+      "id": "18",
+      "name": "Tennis Ball",
+      "description": "Premium tennis balls in a pack of 3.",
+      "price": 19.99,
+      "image": "images/tennisball.jpg",
+      "category": "tennis"
+    },
+    {
+      "id": "19",
+      "name": "Tennis Shoes",
+      "description": "Court-ready tennis shoes with superior cushioning.",
+      "price": 99.99,
+      "image": "images/tennisshoes.jpg",
+      "category": "tennis"
+    },
+    {
+      "id": "20",
+      "name": "Dumbbells Set",
+      "description": "Adjustable dumbbells set for home gym workouts.",
+      "price": 149.99,
+      "image": "images/dumble.jpg",
+      "category": "gym"
+    },
+    {
+      "id": "21",
+      "name": "Barbell Set",
+      "description": "Professional barbell set with weight plates included.",
+      "price": 299.99,
+      "image": "images/barbells.jpg",
+      "category": "gym"
+    },
+    {
+      "id": "22",
+      "name": "Weight Plates",
+      "description": "Cast iron weight plates in various sizes.",
+      "price": 89.99,
+      "image": "images/weight.jpg",
+      "category": "gym"
+    },
+    {
+      "id": "23",
+      "name": "Rack",
+      "description": "Heavy-duty weight rack for organizing gym equipment.",
+      "price": 199.99,
+      "image": "images/rack.jpg",
+      "category": "gym"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Cricket",
+      "slug": "cricket"
+    },
+    {
+      "id": "2",
+      "name": "Football",
+      "slug": "football"
+    },
+    {
+      "id": "3",
+      "name": "Hockey",
+      "slug": "hockey"
+    },
+    {
+      "id": "4",
+      "name": "Tennis",
+      "slug": "tennis"
+    },
+    {
+      "id": "5",
+      "name": "Gym & Fitness",
+      "slug": "gym"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin User"
+    },
+    {
+      "id": "2",
+      "username": "client",
+      "password": "client123",
+      "role": "client",
+      "name": "Client User"
+    }
+  ],
+  "cart": [
+    {
+      "id": "c4ec",
+      "productId": "4",
+      "name": "Cricket Gloves",
+      "price": 39.99,
+      "image": "images/gloves.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "76d3",
+      "productId": "2",
+      "name": "Cricket Ball",
+      "price": 45.99,
+      "image": "images/cricketball.jpg",
+      "quantity": 1
+    }
+  ]
+}

@@ -36,7 +36,7 @@ project-root/
 ├── css/
 │   └── style.css      # Main stylesheet
 ├── js/
-│   ├── api.js         # Data API (LocalStorage operations)
+│   ├── api.js         # Data API (crud operations)
 │   ├── app.js         # Main application logic
 │   └── utils.js       # Utility functions
 ├── assets/            # Assets folder
